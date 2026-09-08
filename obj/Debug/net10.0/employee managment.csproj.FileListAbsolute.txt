@@ -1,0 +1,15 @@
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/bin/Debug/net10.0/employee managment
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/bin/Debug/net10.0/employee managment.deps.json
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/bin/Debug/net10.0/employee managment.runtimeconfig.json
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/bin/Debug/net10.0/employee managment.dll
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/bin/Debug/net10.0/employee managment.pdb
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/employee managment.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/employee managment.AssemblyInfoInputs.cache
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/employee managment.AssemblyInfo.cs
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/employee managment.csproj.CoreCompileInputs.cache
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/employee managment.sourcelink.json
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/employee managment.dll
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/refint/employee managment.dll
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/employee managment.pdb
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/employee managment.genruntimeconfig.cache
+/home/mohamed-elfarsisi/projects/cSharp-application/employee managment/obj/Debug/net10.0/ref/employee managment.dll
