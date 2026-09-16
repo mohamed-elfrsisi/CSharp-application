@@ -1,0 +1,15 @@
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/TaskTracker.AssemblyInfoInputs.cache
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/TaskTracker.AssemblyInfo.cs
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/TaskTracker.csproj.CoreCompileInputs.cache
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/TaskTracker.sourcelink.json
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/bin/Debug/net10.0/TaskTracker
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/bin/Debug/net10.0/TaskTracker.deps.json
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/bin/Debug/net10.0/TaskTracker.runtimeconfig.json
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/bin/Debug/net10.0/TaskTracker.dll
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/bin/Debug/net10.0/TaskTracker.pdb
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/TaskTracker.dll
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/refint/TaskTracker.dll
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/TaskTracker.pdb
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/TaskTracker.genruntimeconfig.cache
+/home/mohamed-elfarsisi/projects/cSharp-application/TaskTracker/obj/Debug/net10.0/ref/TaskTracker.dll
