@@ -1,0 +1,14 @@
+C:\Users\El-Farsisi\projects\Mst4faKFS\bin\Debug\net10.0\Mst4faKFS.exe
+C:\Users\El-Farsisi\projects\Mst4faKFS\bin\Debug\net10.0\Mst4faKFS.deps.json
+C:\Users\El-Farsisi\projects\Mst4faKFS\bin\Debug\net10.0\Mst4faKFS.runtimeconfig.json
+C:\Users\El-Farsisi\projects\Mst4faKFS\bin\Debug\net10.0\Mst4faKFS.dll
+C:\Users\El-Farsisi\projects\Mst4faKFS\bin\Debug\net10.0\Mst4faKFS.pdb
+C:\Users\El-Farsisi\projects\Mst4faKFS\obj\Debug\net10.0\Mst4faKFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El-Farsisi\projects\Mst4faKFS\obj\Debug\net10.0\Mst4faKFS.AssemblyInfoInputs.cache
+C:\Users\El-Farsisi\projects\Mst4faKFS\obj\Debug\net10.0\Mst4faKFS.AssemblyInfo.cs
+C:\Users\El-Farsisi\projects\Mst4faKFS\obj\Debug\net10.0\Mst4faKFS.csproj.CoreCompileInputs.cache
+C:\Users\El-Farsisi\projects\Mst4faKFS\obj\Debug\net10.0\Mst4faKFS.dll
+C:\Users\El-Farsisi\projects\Mst4faKFS\obj\Debug\net10.0\refint\Mst4faKFS.dll
+C:\Users\El-Farsisi\projects\Mst4faKFS\obj\Debug\net10.0\Mst4faKFS.pdb
+C:\Users\El-Farsisi\projects\Mst4faKFS\obj\Debug\net10.0\Mst4faKFS.genruntimeconfig.cache
+C:\Users\El-Farsisi\projects\Mst4faKFS\obj\Debug\net10.0\ref\Mst4faKFS.dll
